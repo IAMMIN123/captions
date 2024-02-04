@@ -10,7 +10,7 @@
  },
  {
   "input": "Many thanks to the faculty for including me. ",
-  "translatedText": "저를 포함시켜주신 교수님들께 깊은 감사를 드립니다. ",
+  "translatedText": "저를 포함시켜주신 교수님들께 깊은 감사를 드리고 ",
   "model": "nmt",
   "time_range": [
    3.5874999999999995,
@@ -28,7 +28,7 @@
  },
  {
   "input": "I was sitting essentially where you are right now about eight years ago. ",
-  "translatedText": "나는 본질적으로 약 8년 전에 지금 여러분이 있는 곳에 앉아 있었습니다. ",
+  "translatedText": "지금 여러분이 앉아있는 곳이 본질적으로 제가 약 8년 전에 앉아있던 자리입니다.",
   "model": "nmt",
   "time_range": [
    14.826666666666664,
@@ -37,7 +37,7 @@
  },
  {
   "input": "I was receiving the same degree and in the time since then I devoted myself to trying to share math with others mainly through YouTube but also through some other avenues and what I want to talk to you about today is a small way that my relationship with math has changed during that time and a way that I hope that it continues to change. ",
-  "translatedText": "저는 같은 학위를 받고 그 이후로 주로 YouTube를 통해서뿐만 아니라 다른 경로를 통해서도 다른 사람들과 수학을 공유하는 데 전념했습니다. 오늘 제가 여러분에게 이야기하고 싶은 것은 나와 수학과의 관계를 유지하는 작은 방법입니다. 그 동안 변해왔고 앞으로도 변하기를 바랍니다. ",
+  "translatedText": "저는 여러분과 같은 학위를 받고 그 이후로 주로 YouTube를 통해서뿐만 아니라 다른 경로를 통해서도 다른 사람들과 수학을 공유하는 데 전념했습니다. 오늘 제가 여러분에게 이야기하고 싶은 것은 저와 수학과의 관계에 이루어진, 그리고 앞으로 이루어지길 원하는, 작은 변화입니다.",
   "model": "nmt",
   "time_range": [
    18.58638888888889,
@@ -46,7 +46,7 @@
  },
  {
   "input": "The change is personal but it's something that might just apply to you too and if so it might actually help in shaping your future. ",
-  "translatedText": "변화는 개인적이지만 귀하에게도 적용될 수 있으며, 그렇다면 실제로 귀하의 미래를 형성하는 데 도움이 될 수 있습니다. ",
+  "translatedText": "이 변화는 제 개인적인 변화이지만 여러분에게도 적용될지도 모르는, 적용된다면 당신들의 미래를 형성하는 데 도움이 될 수도 있는 변화입니다. ",
   "model": "nmt",
   "time_range": [
    35.68,
@@ -55,7 +55,7 @@
  },
  {
   "input": "I was reflecting before today on what it was that pulled me into the subject in the first place. ",
-  "translatedText": "나는 오늘 이전에 나를 이 주제로 끌어들인 것이 무엇인지 곰곰이 생각하고 있었습니다. ",
+  "translatedText": "저는 여기 오기 전까지 저를 애초에 이 학문으로 끌어들인 것이 무엇인지 곰곰이 생각하고 있었습니다. ",
   "model": "nmt",
   "time_range": [
    42.40974358974359,
@@ -64,7 +64,7 @@
  },
  {
   "input": "Why is it that I fell in love with the subject? ",
-  "translatedText": "내가 그 주제와 사랑에 빠진 이유는 무엇입니까? ",
+  "translatedText": "내가 그 과목과 사랑에 빠진 이유는 무엇일까? ",
   "model": "nmt",
   "time_range": [
    47.24,
@@ -73,7 +73,7 @@
  },
  {
   "input": "Why is it that I chose to major in it when I was here? ",
-  "translatedText": "내가 여기 있을 때 왜 전공을 선택했나요? ",
+  "translatedText": "내가 여기 있었을 때 왜 그 전공을 택했을까? ",
   "model": "nmt",
   "time_range": [
    49.544,
@@ -82,7 +82,7 @@
  },
  {
   "input": "Why is it that I've spent the last eight years in this sort of weird unorthodox career path of explaining it online? ",
-  "translatedText": "왜 나는 온라인에서 설명하는 이런 종류의 이상하고 비정통적인 직업 경로에서 지난 8년을 보냈습니까? ",
+  "translatedText": "나는 왜 어찌보면 이상하고 비정통적인 온라인에서 그 학문을 설명하는 직업에서 지난 8년을 보냈을까? ",
   "model": "nmt",
   "time_range": [
    52.1651282051282,
